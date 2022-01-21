@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @J3022
 - 👀 I’m interested in learn Data Analytics skills
-- 🌱 I’m currently learning Python code
+- 🌱 I’m currently learning Python and SQL
+- This is my first code project experience
 
 <!---
 J3022/J3022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
